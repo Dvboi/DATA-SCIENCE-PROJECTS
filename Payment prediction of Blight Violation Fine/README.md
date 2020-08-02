@@ -1,10 +1,10 @@
 # Machine Learning Project
 ## Note - This was one of Coursera's Assignment
 
-..* Aim.   
+- Aim.   
 Understanding and Predicting Property Maintenance Fines.   
 
-..* Overview.  
+- Overview.  
 This project is based on a data challenge from the Michigan Data Science Team (MDST).   
 
 
@@ -12,7 +12,7 @@ The Michigan Data Science Team (MDST) and the Michigan Student Symposium for Int
 The first step in answering this question is understanding when and why a resident might fail to comply with a blight ticket. This is where predictive modeling comes in. So this project predicts whether a given blight ticket will be paid on time.(More info about dataset is in the notebook)     
 
 
- ..* Model,Metrics and Accuracy.  
+ - Model,Metrics and Accuracy.  
  The Machine Learning algorithm used is Random Forest Classifier.  
  The Evaluation Metric used is ROC area under curve as the data was skewed.   
  The Accuracy achieved was approximately 80%.
