@@ -14,5 +14,5 @@ The first step in answering this question is understanding when and why a reside
 
  - Model,Metrics and Accuracy.  
  The Machine Learning algorithm used is Random Forest Classifier.  
- The Evaluation Metric used is ROC area under curve as the data was skewed.   
+ The Evaluation Metric used is ROC area under curve.   
  The Accuracy achieved was approximately 80%.
